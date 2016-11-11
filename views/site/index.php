@@ -6,7 +6,7 @@ use yii\helpers\Url;
 
 /* @var $this yii\web\View */
 
-$this->title = 'Scrumuc';
+$this->title = 'Proyecto scrumuc';
 ?>
 <meta charset="utf-8">
 <div class="site-index">
